@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1742316810424,
+    "description" : "Este Flow accede a la base de Datos CentroSur la cual abstrae los 87 registros de la tabla sube_Alim y procesa estos datos para mandar a un topic en Kafka llamado sube-alim-data el cual permite almacenar los mensajes o los datos enviados por el grupo procesador para que el grupo consumidor pueda consumir estos datos para tratarlos y guardarlos en la Base de Datos base_prueba en la tabla sube_alim_processed",
+    "identifier" : "Comunicacion-de-todos-los-servicios-Nifi-Kakfa-tabla-subealim",
+    "lastModifiedTimestamp" : 1742316810424,
+    "name" : "Comunicacion de todos los servicios Nifi-Kakfa tabla sube_alim",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
