@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1742591490923,
+    "description" : "version casi final 0.5",
+    "identifier" : "Comunicacion-de-todos-los-servicios-Nifi-Kakfa-tabla-potenciadep",
+    "lastModifiedTimestamp" : 1742591490923,
+    "name" : "Comunicacion de todos los servicios Nifi-Kakfa tabla potencia_dep",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
