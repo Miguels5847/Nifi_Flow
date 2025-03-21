@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1742591557713,
+    "description" : "Version 0.5 de obtención mes a mes 2019",
+    "identifier" : "Comunicacion-de-todos-los-servicios-Nifi-Kakfa-tabla-potenciadep",
+    "lastModifiedTimestamp" : 1742591557713,
+    "name" : "Comunicacion de todos los servicios Nifi-Kakfa tabla potencia_dep",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
